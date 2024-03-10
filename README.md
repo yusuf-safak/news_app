@@ -1,6 +1,5 @@
 # news_app
 
-Bu proje crewin şirketinin staj mülakatı için hazırlanmıştır.
 
 ## Getting Started
 
